@@ -47,6 +47,10 @@
 
 **其他注释需要遵循 JavaDoc 规范**
 
+### JAVA Package 规范
+
+约定每个 Java package 下面必须包含一个`package-info.java` 文件来标识该 package 的所包含的内容；提交的代码不得出现空的 package 目录；
+
 
 
 
