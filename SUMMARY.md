@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Project 初始化流程](project-init.md)
 * [编码规范约定](/code-style/README.md)
   * [IDE 规范建议](/code-style/ide-specification-advice.md)
   * [阿里巴巴代码规约插件的安装和使用](/code-style/alibaba-coding-guidelines.md)
