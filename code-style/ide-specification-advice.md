@@ -32,19 +32,22 @@
 
 **文件注释**
 
+> 文件注释必须包含 描述（@description）、时间（@date）、作者（@author）、起始版本(@since), 示例如下：
 
 ```
 /**
- * @description Commons Basic Package
- * @date 2017/11/3 17:51
+ * @description TODO
+ * @date 2017/11/8 17:51
  * @slogon 站在巨人的肩膀上
  * @author LarryKoo (larrykoo@126.com)
- * @since 1.0.0
+ * @since 1.0.x
  */
 
 ```
 
-aaaa
+**其他注释需要遵循 JavaDoc 规范**
+
+
 
 
 
