@@ -1,8 +1,6 @@
 # HystrixCommand 线程池工具的配置和使用
 
-> Author: larry.koo
->
-> Date: 2017--03-31
+> Author: larry.koo  Date: 2017--03-31
 
 ---
 
@@ -44,8 +42,6 @@ sxw:
           threadPoolRollingNumberStatisticalWindowInMilliseconds: 10000 // milliseconds for rolling number
           threadPoolRollingNumberStatisticalWindowBuckets: 10 // number of buckets in rolling number (10 1-second buckets)
 ```
-
-
 
 > 备注：以上为默认配置信息，项目中使用时，如果该项配置没有改变，无须进行配置
 
