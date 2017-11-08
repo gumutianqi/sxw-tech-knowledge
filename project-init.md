@@ -12,7 +12,7 @@
 
 **2. 使用通用 pom 文件创建 Maven 根工程**
 
-根据以下 `pom.xml`文件模版，创建相应工程的 pom 文件：
+根据以下 `pom.xml`文件模版，创建相应工程的 pom 文件,这里已 sxw-cms-service为例，实际情况请根据项目规范名称和约定定义名称以及相应版本号；
 
 ```
 <?xml version="1.0" encoding="UTF-8"?>
@@ -50,3 +50,5 @@
     </scm>
 </project>
 ```
+
+将更新好的 `pom.xml` 文件放到 git 源代码根目录，然后从 IDEA 中
