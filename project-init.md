@@ -3,10 +3,13 @@
 
 > Author: larry.koo  Date: 2017-11-08
 
+
+### 项目结构搭建流程
+
 **1. 从 Git 仓库 Checkout 源代码**
 
-推荐使用`SourceTree`工具进行本地 Git 版本化的管理；
-下载地址: https://www.sourcetreeapp.com/
+推荐使用`SourceTree`工具进行本地 Git 版本化的管理；  
+下载地址: [https://www.sourcetreeapp.com/](https://www.sourcetreeapp.com/)
 
 > git 使用不在详细叙述……
 
@@ -51,4 +54,44 @@
 </project>
 ```
 
-将更新好的 `pom.xml` 文件放到 git 源代码根目录，然后从 IDEA 中
+将更新好的 `pom.xml` 文件放到 git 源代码根目录，然后从 IDEA 中导入该工程即可，导入后效果如下：
+
+![](/assets/cms-service-parent.jpg)
+
+**3. 创建需要的 Module**
+
+导入POM工程后，我们在该Project 上右键创建需要的 Module 工程，这里以`sxw-cms-service`为例，创建以下 Module:
+
+| Module名称 | 描述信息 |
+| :--- | :--- |
+| domain | Java Entity 对象 |
+| client | API Interface 定义，同时暴露 Restful API 依赖 |
+| biz | API Service 实现 |
+| server | Web 启动 Module |
+
+注意：除了 server module 需要保留`src/main/resources`和`src/test/java`以外，其他 module只需要保留 `src/main/java`源代码 Package 即可；
+
+### 相关 Module 模版请参见下一节
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
