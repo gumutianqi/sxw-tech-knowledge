@@ -4,7 +4,7 @@
 
 ---
 
-### 文件头规范
+### 源代码文件规范
 
 > 统一使用以下生学教育科技有限公司的文件头规范
 
@@ -21,14 +21,30 @@
  */
 ```
 
-#### 配置方式
+**配置方式**
 
 打开 `IDEA`，通过File 》 Import Settings 导入配置好的文件模版文件 file-template-setting.jar 文件，重启即可；
 
 [文件模版文件点击下载](/assets/file-template-settings.jar)
 
 
+### 注释规范
 
+**文件注释**
+
+
+```
+/**
+ * @description Commons Basic Package
+ * @date 2017/11/3 17:51
+ * @slogon 站在巨人的肩膀上
+ * @author LarryKoo (larrykoo@126.com)
+ * @since 1.0.0
+ */
+
+```
+
+aaaa
 
 
 
