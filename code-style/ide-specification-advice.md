@@ -25,7 +25,9 @@
 
 打开 IDEA，通过File =&gt; Import Settings 导入配置好的文件模版文件 file-template-setting.jar 文件，重启即可；
 
-文件模版文件下载：![](/assets/file-template-settings.jar)
+文件模版文件下载: 
+
+
 
 
 
