@@ -29,5 +29,11 @@ http://ibeetl.com/guide/#beetlsql
 
 https://projectlombok.org/features/all
 
+**MapStruct**
+
+http://mapstruct.org/
+
+http://mapstruct.org/documentation/stable/reference/html/
+
 
 
