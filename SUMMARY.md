@@ -10,6 +10,8 @@
   * [Swagger-starter 的使用](/tools-used/swagger-springboot-starter.md)
   * [Redis-starter 的使用](/tools-used/redis-springboot-starter.md)
   * [HystrixCommand 线程池工具的配置和使用](/tools-used/util-hystrixcommand.md)
+* [第三方文档汇总](/opensource-doc.md)
+
 
 
 
