@@ -24,7 +24,7 @@ Redis Starter 的使用
 
 **配置 application.yml**
 
-```yml
+```java
 ## 自定义的多 Redis 驱动配置，配置属性与 Spring-Data-Redis 一致
 sxw.redis:
   instances:
