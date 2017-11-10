@@ -15,10 +15,10 @@
   * [HystrixCommand 线程池工具的配置和使用](/tools-used/util-hystrixcommand.md)
 * [一张图看懂 Coder 的世界](/chart/README.md)
   * [Spring Cloud 微服务架构](/chart/structure-chart.md)
+  * [Hystrix-Ribbon-Feign如何工作](/chart/hystrix-ribbon-feign.md)
   * [登录授权](/chart/token.md)
   * [短信发送](/chart/sms-send.md)
   * [APP推送](/chart/push-message.md)
-  * [Hystrix-Ribbon-Feign如何工作](/chart/hystrix-ribbon-feign.md)
 * [第三方文档汇总](/opensource-doc.md)
 
 
