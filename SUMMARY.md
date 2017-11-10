@@ -9,7 +9,6 @@
 * [微服务架构](/microservice/README.md)
   * [* 什么是微服务](/microservice/what-is-microservice.md)
   * [* Spring Cloud 组成](/microservice/spring-cloud.md)
-  * 
 * [工具的使用](/tools-used/README.md)
   * [* Swagger-starter 的使用](/tools-used/swagger-springboot-starter.md)
   * [* Redis-starter 的使用](/tools-used/redis-springboot-starter.md)
