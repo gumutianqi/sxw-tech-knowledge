@@ -72,7 +72,7 @@ public static Object sayHello(final String groupKey, final String commandKey) {
 }
 ```
 
-\*\*调用方式\*\*
+**调用方式**
 
 ```java
 /**

@@ -17,7 +17,7 @@
 
 根据以下 `pom.xml`文件模版，创建相应工程的 pom 文件,这里已 sxw-cms-service为例，实际情况请根据项目规范名称和约定定义名称以及相应版本号；
 
-```
+```java
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
