@@ -36,12 +36,11 @@
 ```
 /**
  * @description TODO
- * @date 2017/11/8 17:51
+ * @date ${DATE} ${TIME}
  * @slogon 站在巨人的肩膀上
- * @author LarryKoo (larrykoo@126.com)
- * @since 1.0.x
+ * @author larry.koo
+ * @since 1.0.0
  */
-
 ```
 
 **其他注释需要遵循 JavaDoc 规范**
