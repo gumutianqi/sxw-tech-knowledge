@@ -6,6 +6,23 @@
 
 ---
 
+#### 如何访问 （请自行根据网路情况访问）
+
+**GitBook**
+
+https://www.gitbook.com/book/gumutianqi1/sxw-tech-knowledge/details
+
+
+**Coding.net 同步**
+https://larrykoo.coding.me/sxw-tech-knowledge-gitbook
+
+**GitHub**
+
+https://github.com/gumutianqi/sxw-tech-knowledge
+
+
+
+
 ###### 本书所有内容皆围绕 Spring Boot 、Spring Cloud 展开微服务实践；涉及到的技术栈如下：
 
 * Spring Boot
