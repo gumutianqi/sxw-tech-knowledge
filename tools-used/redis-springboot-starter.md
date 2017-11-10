@@ -73,7 +73,7 @@ public class MainConfig {
     @Bean("redisTemplateSingle")
     @Qualifier("redisTemplateSingle")
     public RedisTemplate redisTemplateSingle() {
-        // 其中 findById("") 的中的 ID 即为 yml 配置的实例 ID 定义
+        // 其中 findById("ID") 的中的 ID 即为 yml 配置的实例 ID 定义
         return RedisConfigBuilder.create(customRedisProperties.findById("exam-single")).build();
     }
 
