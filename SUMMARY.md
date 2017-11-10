@@ -11,7 +11,7 @@
   * [Spring Cloud 组成](/microservice/spring-cloud.md)
 * [工具的使用](/tools-used/README.md)
   * [\* Swagger-starter 的使用](/tools-used/swagger-springboot-starter.md)
-  * [\* Redis-starter 的使用](/tools-used/redis-springboot-starter.md)
+  * [Redis-starter 的使用](/tools-used/redis-springboot-starter.md)
   * [HystrixCommand 线程池工具的配置和使用](/tools-used/util-hystrixcommand.md)
 * [一张图看懂 Coder 的世界](/chart/README.md)
   * [Spring Cloud 微服务架构](/chart/structure-chart.md)

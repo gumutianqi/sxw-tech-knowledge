@@ -8,7 +8,7 @@
 
 **yaml 配置项**
 
-```
+```java
 sxw:
     hystrix:
         command-prop:
