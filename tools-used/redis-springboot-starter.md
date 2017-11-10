@@ -14,7 +14,7 @@ Redis Starter 的使用
 
 **Maven依赖：**
 
-```
+```java
 <dependency>
     <groupId>cn.sxw.commons.data.redis</groupId>
     <artifactId>sxw-commons-data-redis-starter</artifactId>
