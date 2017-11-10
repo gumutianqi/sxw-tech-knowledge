@@ -5,6 +5,8 @@
 
 ### Martin Fowler关于微服务的原文
 
+> 这里不做过多介绍，直接上 Martin Fowler 微服务创始人的原文
+
 https://martinfowler.com/articles/microservices.html
 
 ### 通俗的理解
