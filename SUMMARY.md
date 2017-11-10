@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [从零开始建项目](project-init.md)
+* [第三方开源文档汇总](/opensource-doc.md)
 * [编码规范约定](/code-style/README.md)
   * [IDE 规范建议](/code-style/ide-specification-advice.md)
   * [阿里巴巴代码规约插件的安装和使用](/code-style/alibaba-coding-guidelines.md)
@@ -19,5 +20,4 @@
   * [登录授权](/chart/token.md)
   * [短信发送](/chart/sms-send.md)
   * [APP推送](/chart/push-message.md)
-* [第三方文档汇总](/opensource-doc.md)
 
