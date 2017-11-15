@@ -7,6 +7,7 @@
   * [IDE 规范建议](/code-style/ide-specification-advice.md)
   * [阿里巴巴代码规约插件的安装和使用](/code-style/alibaba-coding-guidelines.md)
   * [\* 巧妙使用 IDEA 的 Live-Template](/code-style/idea-live-template.md)
+  * [语义化版本](/code-style/semantic-version.md)
 * [微服务架构](/microservice/README.md)
   * [什么是微服务](/microservice/what-is-microservice.md)
   * [Spring Cloud 组成](/microservice/spring-cloud.md)
