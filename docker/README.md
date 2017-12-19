@@ -1,7 +1,7 @@
 Docker 团队实践
 ===
 
-
+> Docker 入门电子书：http://docker_practice.gitee.io/
 
 ### 什么是 Docker
 
