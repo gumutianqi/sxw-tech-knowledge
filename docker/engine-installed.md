@@ -62,7 +62,7 @@ $ sudo service docker start
 **安装校验**
 
 ```
-root@iZbp12adskpuoxodbkqzjfZ:$ docker version
+$ root@iZbp12adskpuoxodbkqzjfZ:$ docker version
 Client:
  Version:      17.03.0-ce
  API version:  1.26
