@@ -100,5 +100,14 @@ sudo systemctl restart docker
 
 ### Docker Compose 编排工具的安装
 
+Docker Compose 是一款开源的 Docker 容器编排工具，非常实用：https://github.com/docker/compose
+
+**安装脚本**
+
+```
+curl -L https://github.com/docker/compose/releases/download/1.18.0/docker-compose-`uname -s`-`uname -m` -o /usr/local/bin/docker-compose
+chmod +x /usr/local/bin/docker-compose
+```
+
 
 
