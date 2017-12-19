@@ -81,6 +81,23 @@ Server:
  Experimental: false
 ```
 
+### 如何配置镜像加速器
+
+**针对Docker客户端版本大于1.10.0的用户**
+
+> 您可以通过修改daemon配置文件`/etc/docker/daemon.json`来使用加速器，脚本如下：
+
+```
+sudo mkdir -p /etc/docker
+sudo tee /etc/docker/daemon.json <<-'EOF'
+{
+  "registry-mirrors": ["https://gu8ufa9a.mirror.aliyuncs.com"]
+}
+EOF
+sudo systemctl daemon-reload
+sudo systemctl restart docker
+```
+
 ### Docker Compose 编排工具的安装
 
 
